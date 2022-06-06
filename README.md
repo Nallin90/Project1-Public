@@ -1,6 +1,6 @@
 # Project 1
 >##### _Description:_
->-Create a backend of an online store to buy products. Users can register an account and login to add items into a cart. Then they can can place orders based on the items in their cart. The information that contains the users, items, carts, the items in those carts, and the orders are all stored in their respective tables.
+>- Create a backend of an online store to buy products. Users can register an account and login to add items into a cart. Then they can can place orders based on the items in their cart. The information that contains the users, items, carts, the items in those carts, and the orders are all stored in their respective tables.
 
 #### _Features Implemented:_
 - _**Register**_ - Users are able to be registered
